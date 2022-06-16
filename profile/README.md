@@ -1,5 +1,8 @@
-## Welcome to the team 🙌
+# Welcome to the team 🙌
 
+[![https://img.shields.io/website-up-down-aqua-red/https/platinamo.com]][P]
+
+[P]: https://platinamo.com
 <!--
 
 **Here are some ideas to get you started:**
